@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="jupyterlab-sos" width="880"></p>
+
 # jupyterlab_sos
 
 [![Github Actions Status](https://github.com/vatlab/jupyterlab-sos/workflows/Build/badge.svg)](https://github.com/vatlab/jupyterlab-sos/actions/workflows/build.yml)
